@@ -1,0 +1,3 @@
+rootProject.name = 'vasaviAppstore'
+
+include ':app'
